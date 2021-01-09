@@ -39,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "component-library": "../../component-library/component-library-v1.0.0.tgz"
   }
 }
