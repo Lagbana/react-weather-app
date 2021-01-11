@@ -1,10 +1,10 @@
-import React from "react";
-import { Button, Flex, Grid } from "component-library";
+import { Button, Flex, Grid, Header } from "component-library-ld";
 import "./App.css";
 
 function App() {
   return (
     <>
+      <Header color='red'>Weather Dashboard</Header>
       <Button buttonColor="blue" textColor="white">
         Button
       </Button>
