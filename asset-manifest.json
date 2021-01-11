@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Lagbana/react-weather-app/static/css/main.b49800cb.chunk.css",
-    "main.js": "/Lagbana/react-weather-app/static/js/main.330edbd6.chunk.js",
-    "main.js.map": "/Lagbana/react-weather-app/static/js/main.330edbd6.chunk.js.map",
+    "main.js": "/Lagbana/react-weather-app/static/js/main.4472285a.chunk.js",
+    "main.js.map": "/Lagbana/react-weather-app/static/js/main.4472285a.chunk.js.map",
     "runtime-main.js": "/Lagbana/react-weather-app/static/js/runtime-main.79bf1d2a.js",
     "runtime-main.js.map": "/Lagbana/react-weather-app/static/js/runtime-main.79bf1d2a.js.map",
     "static/js/2.17b43af3.chunk.js": "/Lagbana/react-weather-app/static/js/2.17b43af3.chunk.js",
@@ -12,12 +12,12 @@
     "index.html": "/Lagbana/react-weather-app/index.html",
     "static/css/main.b49800cb.chunk.css.map": "/Lagbana/react-weather-app/static/css/main.b49800cb.chunk.css.map",
     "static/js/2.17b43af3.chunk.js.LICENSE.txt": "/Lagbana/react-weather-app/static/js/2.17b43af3.chunk.js.LICENSE.txt",
-    "static/js/main.330edbd6.chunk.js.LICENSE.txt": "/Lagbana/react-weather-app/static/js/main.330edbd6.chunk.js.LICENSE.txt"
+    "static/js/main.4472285a.chunk.js.LICENSE.txt": "/Lagbana/react-weather-app/static/js/main.4472285a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.79bf1d2a.js",
     "static/js/2.17b43af3.chunk.js",
     "static/css/main.b49800cb.chunk.css",
-    "static/js/main.330edbd6.chunk.js"
+    "static/js/main.4472285a.chunk.js"
   ]
 }
